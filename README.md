@@ -1,2 +1,6 @@
-### A list of ADS domains to block on my dns server
+### Block ADS 
+
+- Android: 
+
+- iOS ( > 14) /macOS (Big Sur): 
 
