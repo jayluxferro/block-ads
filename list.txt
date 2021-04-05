@@ -2379,3 +2379,6 @@ adrervice.google.com
 www.googleadrervices.col
 googleadrervices.col
 ade.clmbtech.com
+incoming.telemetry.mozilla.org
+telemetry.mozilla.org
+ad.leap.app
