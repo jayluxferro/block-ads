@@ -2383,3 +2383,4 @@ incoming.telemetry.mozilla.org
 telemetry.mozilla.org
 ad.leap.app
 beta.kaprila.com
+adfpoint.com
