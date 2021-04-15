@@ -2384,3 +2384,5 @@ telemetry.mozilla.org
 ad.leap.app
 beta.kaprila.com
 adfpoint.com
+www.ad-kf.com
+ad-kf.com
