@@ -2387,3 +2387,4 @@ adfpoint.com
 www.ad-kf.com
 ad-kf.com
 customer.worldstream.nl
+api.samsungknowledge.com
