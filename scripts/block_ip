@@ -1,0 +1,4 @@
+for x in $(cat ./block_ip_list);
+do
+	iptables -A INPUT -s $x -p tcp --destination-port 0:65535 -j DROP
+done
