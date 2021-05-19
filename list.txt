@@ -2391,4 +2391,4 @@ api.samsungknowledge.com
 app-analytics-v2.snapchat.com
 cdn.1337x.to
 qzfrmewdbzkcsf.com
-media.amazon.map.fastly.net
+adskeeper.com
