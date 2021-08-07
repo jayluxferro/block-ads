@@ -1,0 +1,6 @@
+for x in $(cat ./block_domain_list);
+do
+	iptables -A INPUT -m string --algo bm --string $x -j DROP
+	iptables -A FORWARD -m string --algo bm --string $x -j DROP
+	iptables -A OUTPUT -m string --algo bm --string $x -j DROP
+done
