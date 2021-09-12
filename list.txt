@@ -2438,3 +2438,4 @@ bitcoin.cash4share.com
 barbedpotions.com
 crueltyrefundye.com
 activitytonic.com
+analytics.jodelapis.com
