@@ -1,4 +1,4 @@
-### Block ADS 
+### Block Ads
 
 - Android: https://github.com/jayluxferro/block-ads/blob/main/android/ad-blocker.apk
 
