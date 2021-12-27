@@ -2486,3 +2486,5 @@ dyncdn2.com
 www.dyncdn2.com
 independentendure.com
 lx1.dyncdn.cc
+analytics.cdn.live
+sentry.io
