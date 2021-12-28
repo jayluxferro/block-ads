@@ -2488,3 +2488,4 @@ independentendure.com
 lx1.dyncdn.cc
 analytics.cdn.live
 sentry.io
+log.showmax.com
