@@ -2490,3 +2490,6 @@ analytics.cdn.live
 sentry.io
 log.showmax.com
 adscdn.online
+www.appyjump.com
+appyjump.com
+cdncloudfront.com
