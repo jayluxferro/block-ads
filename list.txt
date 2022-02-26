@@ -2512,3 +2512,4 @@ prodbox-nuerkies-logger.ejaraapis.xyz
 testbox-nuerkies-logger.ejaraapis.xyz
 optimizationguide-pa.googleapis.com
 eu1.clevertap-prod.com
+t.appsflyer.com
