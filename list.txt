@@ -2516,3 +2516,4 @@ t.appsflyer.com
 log.bntrace.com
 log.bntrace.com
 api.saasexch.com
+sensors.binance.cloud
