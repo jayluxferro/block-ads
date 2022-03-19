@@ -2513,3 +2513,4 @@ testbox-nuerkies-logger.ejaraapis.xyz
 optimizationguide-pa.googleapis.com
 eu1.clevertap-prod.com
 t.appsflyer.com
+log.bntrace.com
