@@ -2518,3 +2518,4 @@ log.bntrace.com
 api.saasexch.com
 sensors.binance.cloud
 dataplane.rum.us-east-1.amazonaws.com
+events-service.coinbase.com
