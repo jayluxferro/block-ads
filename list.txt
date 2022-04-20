@@ -2520,3 +2520,4 @@ sensors.binance.cloud
 dataplane.rum.us-east-1.amazonaws.com
 events-service.coinbase.com
 exceptions.coinbase.com
+errors.exness.com
