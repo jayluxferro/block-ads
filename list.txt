@@ -4916,3 +4916,10 @@ pds-init.ess.apple.com
 gsp85-ssl.ls.apple.com
 configuration.ls.apple.com
 passwordsleakcheck-pa.googleapis.com
+api.smoot.apple.com
+gsp10-ssl.apple.com
+gsp64-ssl.ls.apple.com
+token.safebrowsing.apple
+pancake.apple.com
+gs-loc.apple.com
+mesu.apple.com
