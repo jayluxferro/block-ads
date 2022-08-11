@@ -4921,7 +4921,6 @@ gsp10-ssl.apple.com
 gsp64-ssl.ls.apple.com
 token.safebrowsing.apple
 pancake.apple.com
-gs-loc.apple.com
 mesu.apple.com
 gsp36-ssl.ls.apple.com
 va.tawk.to
