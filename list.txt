@@ -4917,11 +4917,8 @@ pcres2.3u.com
 ams03pap003.storage.live.com
 static.ess.apple.com
 pds-init.ess.apple.com
-gsp85-ssl.ls.apple.com
 configuration.ls.apple.com
 api.smoot.apple.com
-gsp10-ssl.apple.com
 token.safebrowsing.apple
 pancake.apple.com
 mesu.apple.com
-gsp36-ssl.ls.apple.com
