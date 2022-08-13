@@ -4925,4 +4925,3 @@ token.safebrowsing.apple
 pancake.apple.com
 mesu.apple.com
 gsp36-ssl.ls.apple.com
-gsp-ssl.ls.apple.com
