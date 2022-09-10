@@ -4918,3 +4918,5 @@ ams03pap003.storage.live.com
 vumoo.li
 sentry.wixpress.com
 frog.wix.com
+self.events.data.microsoft.com
+ios.pclog.i4.cn
