@@ -4932,3 +4932,4 @@ openload.co
 appdeum.mtn.com.gh
 portal.fb.com
 android-appboot.netflix.com
+tsfe.trafficshaping.dsp.mp.microsoft.com
