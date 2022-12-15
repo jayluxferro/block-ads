@@ -4935,3 +4935,10 @@ android-appboot.netflix.com
 tsfe.trafficshaping.dsp.mp.microsoft.com
 detectportal.firefox.com
 api.onesignal.com
+in.appcenter.ms
+events.data.microsoft.com
+mobile.events.data.microsoft.com
+badad.googleplex.com
+admob-gmats.uc.r.appspot.com
+www.admob-gmats.uc.r.appspot.com
+target.my.com
