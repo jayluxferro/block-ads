@@ -4934,3 +4934,4 @@ portal.fb.com
 android-appboot.netflix.com
 tsfe.trafficshaping.dsp.mp.microsoft.com
 detectportal.firefox.com
+api.onesignal.com
