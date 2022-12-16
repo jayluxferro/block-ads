@@ -4943,3 +4943,5 @@ admob-gmats.uc.r.appspot.com
 www.admob-gmats.uc.r.appspot.com
 target.my.com
 deff.nelreports.net
+data-edge.smartscreen.microsoft.com
+ping-edge.smartscreen.microsoft.com
