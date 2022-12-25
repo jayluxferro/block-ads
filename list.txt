@@ -4945,3 +4945,4 @@ target.my.com
 deff.nelreports.net
 data-edge.smartscreen.microsoft.com
 ping-edge.smartscreen.microsoft.com
+posapi.hubtel.com
