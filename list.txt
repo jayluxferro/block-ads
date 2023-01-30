@@ -4947,3 +4947,4 @@ data-edge.smartscreen.microsoft.com
 ping-edge.smartscreen.microsoft.com
 posapi.hubtel.com
 o33249.ingest.sentry.io
+analytics.scorechain.net
