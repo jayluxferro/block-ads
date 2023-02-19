@@ -4948,3 +4948,4 @@ posapi.hubtel.com
 o33249.ingest.sentry.io
 analytics.scorechain.net
 httpbin.org
+connectivitycheck.cbg-app.huawei.com.cn
