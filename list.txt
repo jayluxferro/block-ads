@@ -4950,3 +4950,4 @@ analytics.scorechain.net
 httpbin.org
 connectivitycheck.cbg-app.huawei.com.cn
 fundingchoicesmessages.google.com
+api.ipgeolocation.io
