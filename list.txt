@@ -4958,3 +4958,5 @@ o265775.ingest.sentry.io
 sb-ssl.google.com
 skadsdk.appsflyer.com
 feedbackws.icloud.com
+content.nessus-telemetry.tenable.com
+nessus-telemetry.tenable.com
