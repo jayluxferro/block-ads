@@ -4964,3 +4964,4 @@ mchpvcjf3xjcny8gh1kgvffp6308.device.marketingcloudapis.com
 api.mixpanel.com
 o293131.ingest.sentry.io
 bs.studycoder.com
+api.mixpanel.com
