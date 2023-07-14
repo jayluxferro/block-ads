@@ -4968,3 +4968,4 @@ api.mixpanel.com
 rudderstack.cdp.prod.data.typeform.com
 logs.browser-intake-datadoghq.com
 teams.events.data.microsoft.com
+fd.api.iris.microsoft.com
