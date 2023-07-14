@@ -4965,3 +4965,6 @@ api.mixpanel.com
 o293131.ingest.sentry.io
 bs.studycoder.com
 api.mixpanel.com
+rudderstack.cdp.prod.data.typeform.com
+logs.browser-intake-datadoghq.com
+teams.events.data.microsoft.com
