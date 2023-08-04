@@ -4970,3 +4970,4 @@ logs.browser-intake-datadoghq.com
 teams.events.data.microsoft.com
 fd.api.iris.microsoft.com
 analytics-api.gov-gh.com
+nav.smartscreen.microsoft.com
