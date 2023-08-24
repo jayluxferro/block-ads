@@ -4972,3 +4972,4 @@ fd.api.iris.microsoft.com
 analytics-api.gov-gh.com
 nav.smartscreen.microsoft.com
 watson.events.data.microsoft.com
+merchant-analytics-api.hubtel.com
