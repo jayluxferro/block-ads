@@ -4974,3 +4974,4 @@ nav.smartscreen.microsoft.com
 watson.events.data.microsoft.com
 merchant-analytics-api.hubtel.com
 global.rel.tunnels.api.visualstudio.com
+jumbo.zomato.com
