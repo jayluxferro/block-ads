@@ -4975,3 +4975,4 @@ watson.events.data.microsoft.com
 merchant-analytics-api.hubtel.com
 global.rel.tunnels.api.visualstudio.com
 jumbo.zomato.com
+rum.browser-intake-datadoghq.com
