@@ -4977,3 +4977,4 @@ global.rel.tunnels.api.visualstudio.com
 jumbo.zomato.com
 rum.browser-intake-datadoghq.com
 2ip.telecom24.link
+gapi.dubstol.com
