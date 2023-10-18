@@ -4978,3 +4978,5 @@ jumbo.zomato.com
 rum.browser-intake-datadoghq.com
 2ip.telecom24.link
 gapi.dubstol.com
+yandex.ru
+a.0df921ae7136d731950edfdd4876e3ee9759a5c2e63fafe0d43f45cf.com
