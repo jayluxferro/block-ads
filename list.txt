@@ -5011,3 +5011,4 @@ kjsnvn-launches.appsflyersdk.com
 kjsnvn-cdn-settings.appsflyersdk.com
 agent-tracking.mymtnlite.com.gh
 analytics.mymtnlite.com.gh
+mtnghana-astra.sandsiv.com
