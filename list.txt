@@ -5010,3 +5010,4 @@ ybs2ffs7v.com
 kjsnvn-launches.appsflyersdk.com
 kjsnvn-cdn-settings.appsflyersdk.com
 agent-tracking.mymtnlite.com.gh
+analytics.mymtnlite.com.gh
