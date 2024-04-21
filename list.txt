@@ -5012,3 +5012,4 @@ kjsnvn-cdn-settings.appsflyersdk.com
 agent-tracking.mymtnlite.com.gh
 analytics.mymtnlite.com.gh
 mtnghana-astra.sandsiv.com
+uksouth-1.in.applicationinsights.azure.com
