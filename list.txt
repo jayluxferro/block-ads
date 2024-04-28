@@ -5015,3 +5015,6 @@ mtnghana-astra.sandsiv.com
 uksouth-1.in.applicationinsights.azure.com
 combine.urbanairship.com
 device-api.urbanairship.com
+sentry.flipperdevices.com
+countly.flipp.dev
+metric.flipperdevices.com
