@@ -5018,3 +5018,4 @@ device-api.urbanairship.com
 sentry.flipperdevices.com
 countly.flipp.dev
 metric.flipperdevices.com
+sentry.pst.net
