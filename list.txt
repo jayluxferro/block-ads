@@ -5019,3 +5019,5 @@ sentry.flipperdevices.com
 countly.flipp.dev
 metric.flipperdevices.com
 sentry.pst.net
+log.weixin.qq.com
+cube.weixinbridge.com
