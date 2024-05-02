@@ -5021,3 +5021,5 @@ metric.flipperdevices.com
 sentry.pst.net
 log.weixin.qq.com
 cube.weixinbridge.com
+log.wechatpay.cn
+cube.weixinbridge.cn
