@@ -5048,3 +5048,4 @@ ad.palmmerchant.com
 graph.facebook.com
 pizzaseo.com
 b-graph.facebook.com
+(\\.|^)device-provisioning\\.googleapis\\.com$
