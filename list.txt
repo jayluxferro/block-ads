@@ -5095,3 +5095,4 @@ go.xxxviijmp.com
 (\.|^)xxxviijmp\.com
 ad.peplink.com
 api.telegra.ph
+analytics-api.hubtel.com
