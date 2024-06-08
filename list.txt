@@ -5074,3 +5074,5 @@ gslb.shalltry.com
 newsaggreg.shalltry.com
 ire-oneid.shalltry.com
 ms.shalltry.com
+app.transacme.com
+feed.rhino-news.com
