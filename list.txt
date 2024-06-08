@@ -5096,3 +5096,10 @@ go.xxxviijmp.com
 ad.peplink.com
 api.telegra.ph
 analytics-api.hubtel.com
+device-api.palmplaystore.com
+ire-dsc.shalltry.com
+oslab.transsion-os.com
+api.hisavana.com
+gslb.shalltry.com
+newsaggreg.shalltry.com
+ire-oneid.shalltry.com
