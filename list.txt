@@ -5076,3 +5076,6 @@ ire-oneid.shalltry.com
 ms.shalltry.com
 app.transacme.com
 feed.rhino-news.com
+log.jieliapp.com
+log.iflytek.com
+logconf.iflytek.com
