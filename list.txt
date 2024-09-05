@@ -5111,3 +5111,4 @@ cdn.avscms.com
 cdn.caahwq.com
 v1.slise.xyz
 eas.etherscan.com
+server.ethicalads.io
