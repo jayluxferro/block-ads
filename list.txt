@@ -5118,3 +5118,5 @@ cdn.bncloudfl.com
 chaseherbalpasty.com
 33917.kopetaweedle.com
 kopetaweedle.com
+cdn.cloudfrale.com
+cloudfrale.com
