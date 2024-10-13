@@ -5133,3 +5133,6 @@ region1.app-analytics-services.com
 websitereview.corp.apple.com
 www.eivaagames.com
 mobile-analytics.platformstyles.com
+hgnrdv-attr.appsflyersdk.com
+hgnrdv-attr.appsflyersdk.com
+hgnrdv-cdn-settings.appsflyersdk.com
