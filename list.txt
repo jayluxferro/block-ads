@@ -5138,4 +5138,3 @@ hgnrdv-attr.appsflyersdk.com
 hgnrdv-cdn-settings.appsflyersdk.com
 mobile-analytics-api.hubtel.com
 hgnrdv-inapps.appsflyersdk.com
-ecommerceappproxy.hubtel.com
