@@ -5139,3 +5139,4 @@ hgnrdv-cdn-settings.appsflyersdk.com
 mobile-analytics-api.hubtel.com
 hgnrdv-inapps.appsflyersdk.com
 dsu-a.shalltry.com
+lasierraeventos.com.br
