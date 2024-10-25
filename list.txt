@@ -5142,3 +5142,4 @@ dsu-a.shalltry.com
 lasierraeventos.com.br
 request.adx.ws
 adx.ws
+cdn.adx.ws
