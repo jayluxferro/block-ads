@@ -5140,3 +5140,5 @@ mobile-analytics-api.hubtel.com
 hgnrdv-inapps.appsflyersdk.com
 dsu-a.shalltry.com
 lasierraeventos.com.br
+request.adx.ws
+adx.ws
