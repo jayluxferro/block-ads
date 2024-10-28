@@ -5143,3 +5143,4 @@ lasierraeventos.com.br
 request.adx.ws
 adx.ws
 cdn.adx.ws
+a.nel.cloudflare.com
