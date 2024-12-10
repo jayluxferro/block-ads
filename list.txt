@@ -5152,3 +5152,4 @@ cdn.pncloudfl.com
 sensors.saasexch.com
 o230231.ingest.sentry.io
 console.horiz.huawei.com
+api.openreplay.com
