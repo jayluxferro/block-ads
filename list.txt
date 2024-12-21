@@ -5154,3 +5154,5 @@ o230231.ingest.sentry.io
 console.horiz.huawei.com
 api.openreplay.com
 yakkit.shop
+hwa.his.huawei.com
+telemetry.portswigger.net
