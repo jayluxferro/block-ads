@@ -5164,3 +5164,4 @@ downrangeinvestmentsrs.click
 verytrendyus.com
 mobile-collector.newrelic.com
 i.clarity.ms
+device-intelligence-api.transfi.com
