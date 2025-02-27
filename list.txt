@@ -5165,3 +5165,5 @@ verytrendyus.com
 mobile-collector.newrelic.com
 i.clarity.ms
 device-intelligence-api.transfi.com
+statcounter.io
+g.megaad.nz
