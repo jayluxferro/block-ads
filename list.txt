@@ -5167,3 +5167,4 @@ i.clarity.ms
 device-intelligence-api.transfi.com
 statcounter.io
 g.megaad.nz
+cdn.growthmate.xyz
