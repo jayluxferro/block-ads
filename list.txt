@@ -5180,3 +5180,4 @@ belacash.net
 fs-loader.com
 a.thirdweb.com
 ban.etherscan.com
+whalegames.gg
