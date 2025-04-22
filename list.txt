@@ -5194,3 +5194,4 @@ ineyz1by-ios.mobile-messenger.intercom.com
 api-lytics.macpaw.com
 self.events.data.microsoft.com
 events.data.microsoft.com
+eec.crunchyroll.com
