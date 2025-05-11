@@ -5217,3 +5217,4 @@ spesrs.huawei.com
 probe.twitter.com.cdn.cloudflare.net
 ohplay.club
 targetednotifications-tm.trafficmanager.net
+vortex.data.microsoft.com
