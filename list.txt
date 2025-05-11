@@ -5212,3 +5212,4 @@ mac.cloud.tenda.com.cn
 brave-user-model-installer-input.s3.brave.com
 appsgrowthpromo-pa.clients6.google.com
 haccws.huawei.com
+sppsws.huawei.com
