@@ -5277,3 +5277,4 @@ az512334.vo.msecnd.net
 mpush-api.aliyun.com
 sdk-apptics.zoho.com
 surveys.jetbrains.com
+variations.brave.com
