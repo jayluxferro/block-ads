@@ -5280,3 +5280,4 @@ surveys.jetbrains.com
 variations.brave.com
 api-adservices.apple.com
 ads.mozilla.org
+log.cookieyes.com
