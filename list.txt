@@ -5281,3 +5281,5 @@ variations.brave.com
 api-adservices.apple.com
 ads.mozilla.org
 log.cookieyes.com
+dns.msftncsi.com
+www.msftncsi.com
