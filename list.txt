@@ -5283,3 +5283,5 @@ ads.mozilla.org
 log.cookieyes.com
 dns.msftncsi.com
 www.msftncsi.com
+loadingscripts.com
+network-universal.com
