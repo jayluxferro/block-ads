@@ -5289,3 +5289,4 @@ uaas.yandex.ru
 click.clickblitzo.com
 accuratevotingorthodox.com
 ipmi.yandex.net
+yndx.net
