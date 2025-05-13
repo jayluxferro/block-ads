@@ -5285,3 +5285,5 @@ dns.msftncsi.com
 www.msftncsi.com
 loadingscripts.com
 network-universal.com
+uaas.yandex.ru
+click.clickblitzo.com
