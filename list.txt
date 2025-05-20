@@ -5295,3 +5295,4 @@ accuratevotingorthodox.com
 lanepartridge.com
 settings-win.data.microsoft.com
 mobile-sdk-lib-ca-1.brilliantcollector.com
+eu-mobile.events.data.microsoft.com
