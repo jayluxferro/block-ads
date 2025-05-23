@@ -5299,3 +5299,4 @@ eu-mobile.events.data.microsoft.com
 prod.telemetry.tableausoftware.com
 telemetry.visualstudio.microsoft.com
 fuck.it.shit
+telemetry.individual.githubcopilot.com
