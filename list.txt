@@ -5300,3 +5300,5 @@ prod.telemetry.tableausoftware.com
 telemetry.visualstudio.microsoft.com
 fuck.it.shit
 telemetry.individual.githubcopilot.com
+oslogs.umeng.com
+oslogs2.umeng.com
