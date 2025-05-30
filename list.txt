@@ -5302,3 +5302,4 @@ fuck.it.shit
 telemetry.individual.githubcopilot.com
 oslogs.umeng.com
 oslogs2.umeng.com
+64.adsco.re
