@@ -5325,7 +5325,6 @@ adx.mosspf.net
 a.applovin.com
 a.applvn.com
 analytics-tcp.mintegral.net
-api.weatherlive.world
 pok.mintegral.net
 net.rayjump.com
 app-measurement.com
