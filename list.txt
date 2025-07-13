@@ -5582,7 +5582,6 @@ rt.applvn.com
 suggestqueries-clients6.youtube.com
 d.applvn.com
 chromecontentsuggestions-pa.googleapis.com
-www.gstatic.com
 kwbcx2940637fafa.com
 ms.applvn.com
 d.applovin.com
