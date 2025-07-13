@@ -5901,3 +5901,4 @@ adv.offlinefamily.net
 9xoyjp2.8bm7.com
 oa.fastota.com
 infinitedata-pa.googleapis.com
+api.weatherlive.world
