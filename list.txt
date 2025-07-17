@@ -5902,3 +5902,9 @@ adv.offlinefamily.net
 oa.fastota.com
 infinitedata-pa.googleapis.com
 api.weatherlive.world
+nifty.com
+www.nifty.com
+govelosys.com
+email.double.serviceautopilot.com
+double.serviceautopilot.com
+serviceautopilot.com
