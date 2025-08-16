@@ -23,3 +23,5 @@ for link in $(cat links.txt); do
     echo "Failed to download $link"
   fi
 done
+
+python3 ./format_list.py
