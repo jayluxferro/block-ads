@@ -15,7 +15,7 @@ with open(input_file, "r") as in_file:
         if line == "localhost":
             continue
 
-        domains.append(f"0.0.0.0 {line}")
+        domains.append(f"0.0.0.0\t{line}")
 
 if domains:
     with open(output_file, "w") as out_file:
