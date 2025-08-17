@@ -5923,4 +5923,5 @@ js.onclckbnr.com
 vidzee.wtf
 adsmetadata.startappservice.com
 mon-va.tiktokv.com
+infoevent.startappservice.com
 info.startappservice.com
