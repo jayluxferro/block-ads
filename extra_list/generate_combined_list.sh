@@ -3,7 +3,7 @@
 rm -rf combined_list.txt
 
 for link in $(cat links.txt); do
-  echo "Processing $link"
+  echo "[-] Processing $link"
   # Extract the filename from the link
   filename=$(basename "$link")
 
@@ -12,7 +12,7 @@ for link in $(cat links.txt); do
 
   # Check if the file was downloaded successfully
   if [ $? -eq 0 ]; then
-    echo "Downloaded $filename successfully."
+    echo -e "[+] Downloaded $filename successfully.\n"
 
     # Append the content to combined_list.txt
     cat "$filename" >>combined_list.txt
@@ -20,7 +20,7 @@ for link in $(cat links.txt); do
     # Remove the downloaded file
     rm "$filename"
   else
-    echo "Failed to download $link"
+    echo "[-] Failed to download $link"
   fi
 done
 

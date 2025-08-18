@@ -20,4 +20,4 @@ with open(input_file, "r") as in_file:
 if domains:
     with open(output_file, "w") as out_file:
         out_file.write("\n".join(domains) + "\n")
-    print(f"Formatted list written to {output_file}")
+    print(f"[+] Formatted list written to {output_file}")
