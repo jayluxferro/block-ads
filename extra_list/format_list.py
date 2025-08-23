@@ -1,8 +1,19 @@
 #!/usr/bin/env python3
-
+import re
 
 output_file = "hosts.txt"
 input_file = "combined_list.txt"
+
+domain_regex = re.compile(
+    r"^(?!-)"  # Ensure it does not start with a hyphen
+    r"(?!.*\.$)"  # Ensure it does not end with a dot
+    r"(?!.*\.\.)"  # Ensure it does not have consecutive dots
+    r"(?!.*(?:^|\.)[0-9]+\.(?:[0-9]+\.)*[0-9]+$)"  # Ensure it is not an IP address format
+    r"[A-Za-z0-9-_]+"  # One or more alphanumeric characters, hyphens, or underscores
+    r"(?:\.[A-Za-z0-9-_]+)+"  # One or more domain labels separated by dots
+    r"$",  # End of the string
+    re.IGNORECASE,  # Case-insensitive matching
+)
 
 domains = []
 excluded_list = [
@@ -18,16 +29,56 @@ excluded_list = [
     "network]",
 ]
 
+funny_chars = [
+    "[",
+    "]",
+    "(",
+    ")",
+    "{",
+    "}",
+    "<",
+    ">",
+    ",",
+    ";",
+    ":",
+    '"',
+    "'",
+    "|",
+    "\\",
+    "/",
+    "!",
+    "?",
+    "*",
+    "&",
+    "^",
+    "%",
+    "$",
+    "#",
+    "@",
+    "~",
+    "`",
+    "=",
+    "+",
+]
+
 with open(input_file, "r") as in_file:
     for line in in_file:
         line = line.strip()
-        if not line or line.startswith("#"):
+        if not line:
             continue
-        line = line.split(" ")[-1].lower()
+
+        line = line.split(" ")[-1].lower().strip()
+
+        skip = False
+        for char in funny_chars:
+            if char in line:
+                skip = True
+                break
         if line in excluded_list:
             continue
 
-        domains.append(f"0.0.0.0\t{line}")
+        if not skip and domain_regex.match(line):
+            domains.append(f"0.0.0.0\t{line}")
 
 if domains:
     with open(output_file, "w") as out_file:
