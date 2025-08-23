@@ -11,6 +11,11 @@ excluded_list = [
     "tracker",
     "https://github.com/stevenblack/hosts/issues/1635",
     "redirects",
+    "malware",
+    "tracking",
+    "code]",
+    "tracker]",
+    "network]",
 ]
 
 with open(input_file, "r") as in_file:
