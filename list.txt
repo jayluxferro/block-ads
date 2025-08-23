@@ -5929,3 +5929,5 @@ v1.slise.xyz
 snowstorm.samcart.com
 px.ads.linkedin.com
 ads.linkedin.com
+reqhfg-launches.appsflyersdk.com
+reqhfg-cdn-settings.appsflyersdk.com
