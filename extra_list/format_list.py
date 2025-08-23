@@ -5,6 +5,13 @@ output_file = "hosts.txt"
 input_file = "combined_list.txt"
 
 domains = []
+excluded_list = [
+    "localhost",
+    "advertising",
+    "tracker",
+    "https://github.com/stevenblack/hosts/issues/1635",
+    "redirects",
+]
 
 with open(input_file, "r") as in_file:
     for line in in_file:
@@ -12,7 +19,7 @@ with open(input_file, "r") as in_file:
         if not line or line.startswith("#"):
             continue
         line = line.split(" ")[-1].lower()
-        if line == "localhost":
+        if line in excluded_list:
             continue
 
         domains.append(f"0.0.0.0\t{line}")
