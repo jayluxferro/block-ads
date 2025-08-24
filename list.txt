@@ -5932,5 +5932,6 @@ ads.linkedin.com
 reqhfg-launches.appsflyersdk.com
 reqhfg-cdn-settings.appsflyersdk.com
 fundingchoicesmessages.google.com
- api.deeplink.dev
+api.deeplink.dev
 toblog.tobsnssdk.com
+tobapplog.tobsnssdk.com
