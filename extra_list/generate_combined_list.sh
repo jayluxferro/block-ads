@@ -24,4 +24,7 @@ for link in $(cat links.txt); do
   fi
 done
 
+# Add custom_list.txt to combined_list.txt
+cat ../list.txt >>combined_list.txt
+
 python3 ./format_list.py
