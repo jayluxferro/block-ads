@@ -32,33 +32,7 @@ excluded_list = [
 funny_chars = [
     "[",
     "]",
-    "(",
-    ")",
-    "{",
-    "}",
-    "<",
-    ">",
-    ",",
-    ";",
-    ":",
-    '"',
-    "'",
-    "|",
-    "\\",
-    "/",
-    "!",
-    "?",
-    "*",
-    "&",
-    "^",
-    "%",
-    "$",
     "#",
-    "@",
-    "~",
-    "`",
-    "=",
-    "+",
 ]
 
 with open(input_file, "r") as in_file:
@@ -67,18 +41,22 @@ with open(input_file, "r") as in_file:
         if not line:
             continue
 
-        line = line.split(" ")[-1].lower().strip()
-
         skip = False
         for char in funny_chars:
             if char in line:
                 skip = True
                 break
+
+        line = line.split(" ")[-1].lower().strip()
         if line in excluded_list:
             continue
 
         if not skip and domain_regex.match(line):
-            domains.append(f"0.0.0.0\t{line}")
+            blacklisted_domain = f"0.0.0.0\t{line}"
+            try:
+                domains.index(blacklisted_domain)
+            except Exception:
+                domains.append(blacklisted_domain)
 
 if domains:
     with open(output_file, "w") as out_file:
