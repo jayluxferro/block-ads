@@ -5966,3 +5966,9 @@ weirdopt.com
 cdn.storageimagedisplay.com
 flushpersist.com
 ep1.adtrafficquality.google
+enrichment-api.superwall.com
+collector.superwall.me
+us.i.posthog.com
+api.revenuecat.com
+analytics.adjust.com
+analytics.adjust.io
