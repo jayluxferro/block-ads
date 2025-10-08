@@ -26500,6 +26500,7 @@
 0.0.0.0	a.sakh.com
 0.0.0.0	a.ucoz.ru
 0.0.0.0	a.vartoken.com
+0.0.0.0	a.vdo.ai
 0.0.0.0	a.vfghd.com
 0.0.0.0	a.vfgtb.com
 0.0.0.0	a.xanga.com
@@ -26936,6 +26937,7 @@
 0.0.0.0	adservrs.com
 0.0.0.0	adservrs.com.edgekey.net
 0.0.0.0	adsfeed.brabys.com
+0.0.0.0	adsflowprime.top
 0.0.0.0	adshrink.it
 0.0.0.0	adside.com
 0.0.0.0	adsiduous.com
@@ -27363,6 +27365,7 @@
 0.0.0.0	clickhereforcellphones.com
 0.0.0.0	clickngo.pro
 0.0.0.0	clickonometrics.pl
+0.0.0.0	clicks.checkatrade.com
 0.0.0.0	clicks.deliveroo.co.uk
 0.0.0.0	clicks.eventbrite.com
 0.0.0.0	clicks.monzo.com
@@ -27751,6 +27754,7 @@
 0.0.0.0	greystripe.com
 0.0.0.0	grouchybrothers.com
 0.0.0.0	groundtruth.com
+0.0.0.0	growthrx.in
 0.0.0.0	gscontxt.net
 0.0.0.0	guardeddirection.com
 0.0.0.0	guardedschool.com
@@ -122095,7 +122099,6 @@
 0.0.0.0	58add99b.webengage.co
 0.0.0.0	crashlogs.whatsapp.net
 0.0.0.0	ort-stsdk.vivoglobal.com
-0.0.0.0	a.vdo.ai
 0.0.0.0	jatracking.naukri.com
 0.0.0.0	b.appjiagu.com
 0.0.0.0	logs.naukri.com
@@ -127235,7 +127238,6 @@
 0.0.0.0	api.growthrx.in
 0.0.0.0	sso.growthrx.in
 0.0.0.0	static.growthrx.in
-0.0.0.0	growthrx.in
 0.0.0.0	academy.redtrack.io
 0.0.0.0	catalog.rtb.redtrack.io
 0.0.0.0	redtrack.io
@@ -131938,3 +131940,4 @@
 0.0.0.0	weirdopt.com
 0.0.0.0	cdn.storageimagedisplay.com
 0.0.0.0	flushpersist.com
+0.0.0.0	ep1.adtrafficquality.google
