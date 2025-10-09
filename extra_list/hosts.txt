@@ -131941,3 +131941,9 @@
 0.0.0.0	cdn.storageimagedisplay.com
 0.0.0.0	flushpersist.com
 0.0.0.0	ep1.adtrafficquality.google
+0.0.0.0	enrichment-api.superwall.com
+0.0.0.0	collector.superwall.me
+0.0.0.0	us.i.posthog.com
+0.0.0.0	api.revenuecat.com
+0.0.0.0	analytics.adjust.com
+0.0.0.0	analytics.adjust.io
