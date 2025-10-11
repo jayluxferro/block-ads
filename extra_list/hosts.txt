@@ -27007,7 +27007,6 @@
 0.0.0.0	adxpose.com
 0.0.0.0	adyoulike.com
 0.0.0.0	adz.rashflash.com
-0.0.0.0	adz2you.com
 0.0.0.0	adzbazar.com
 0.0.0.0	adzerk.s3.amazonaws.com
 0.0.0.0	adzestocp.com
@@ -27145,7 +27144,6 @@
 0.0.0.0	banner.linux.se
 0.0.0.0	banner.media-system.de
 0.0.0.0	banner.noblepoker.com
-0.0.0.0	banner.rbc.ru
 0.0.0.0	banner.reinstil.de
 0.0.0.0	banner.tanto.de
 0.0.0.0	banner.titan-dsl.de
@@ -27201,7 +27199,6 @@
 0.0.0.0	bidvertiser.com
 0.0.0.0	big-bang-ads.com
 0.0.0.0	bigbangmedia.com
-0.0.0.0	bigreal.org
 0.0.0.0	billboard.cz
 0.0.0.0	birthdaybelief.com
 0.0.0.0	bizible.com
@@ -27309,8 +27306,6 @@
 0.0.0.0	cl.turkishairlines.com
 0.0.0.0	cl0udh0st1ng.com
 0.0.0.0	clck.ru
-0.0.0.0	click-1.pl
-0.0.0.0	click-2.eu
 0.0.0.0	click.airmalta-mail.com
 0.0.0.0	click.aliexpress.com
 0.0.0.0	click.allkeyshop.com
@@ -27775,6 +27770,7 @@
 0.0.0.0	hb.afl.rakuten.co.jp
 0.0.0.0	hbb.afl.rakuten.co.jp
 0.0.0.0	heap.com
+0.0.0.0	heimi-lwx.com
 0.0.0.0	hellobar.com
 0.0.0.0	helpcollar.com
 0.0.0.0	hentaicounter.com
@@ -27975,7 +27971,6 @@
 0.0.0.0	li.patheos.com
 0.0.0.0	li.pmc.com
 0.0.0.0	li.realtor.com
-0.0.0.0	li.walmart.com
 0.0.0.0	li.ziffimages.com
 0.0.0.0	liadm.com
 0.0.0.0	libraryfacts.com
@@ -28221,6 +28216,7 @@
 0.0.0.0	nondescriptnote.com
 0.0.0.0	nondescriptstocking.com
 0.0.0.0	novem.pl
+0.0.0.0	nowaymail.com
 0.0.0.0	npttech.com
 0.0.0.0	nr.mmcdn.com
 0.0.0.0	nr.static.mmcdn.com
@@ -28990,7 +28986,6 @@
 0.0.0.0	truehits1.gits.net.th
 0.0.0.0	truehits2.gits.net.th
 0.0.0.0	trust.titanhq.com
-0.0.0.0	trustpid.com
 0.0.0.0	trustx.org
 0.0.0.0	tsyndicate.com
 0.0.0.0	tsyndicate.net
@@ -29189,7 +29184,6 @@
 0.0.0.0	zonewedgeshaft.com
 0.0.0.0	zpu.samsungelectronics.com
 0.0.0.0	zqtk.net
-0.0.0.0	zy16eoat1w.com
 0.0.0.0	localhost.localdomain
 0.0.0.0	ad-assets.futurecdn.net
 0.0.0.0	ck.getcookiestxt.com
@@ -84511,6 +84505,7 @@
 0.0.0.0	banner.newyorkcasino.com
 0.0.0.0	banner.piratos.de
 0.0.0.0	banner.playgatecasino.com
+0.0.0.0	banner.rbc.ru
 0.0.0.0	banner.relcom.ru
 0.0.0.0	bannerads.anytimenews.com
 0.0.0.0	bannerads.zwire.com
@@ -91103,11 +91098,15 @@
 0.0.0.0	ads2.rne.com
 0.0.0.0	adserver.lecool.com
 0.0.0.0	adtech-digital.ru
+0.0.0.0	adz2you.com
 0.0.0.0	analytics.cohesionapps.com
 0.0.0.0	banners.clubseventeen.com
+0.0.0.0	bigreal.org
 0.0.0.0	c.corporate-fundraising.co.uk
 0.0.0.0	ceciliavenus.com
 0.0.0.0	claria.com
+0.0.0.0	click-1.pl
+0.0.0.0	click-2.eu
 0.0.0.0	cnt.spbland.ru
 0.0.0.0	cpx-traffic.com
 0.0.0.0	dancemistake.com
@@ -91118,12 +91117,12 @@
 0.0.0.0	forwrdnow.com
 0.0.0.0	futuristicapparatus.com
 0.0.0.0	go-redirect.pl
-0.0.0.0	heimi-lwx.com
 0.0.0.0	iasds01.com
 0.0.0.0	immensehoney.com
 0.0.0.0	jauchuwa.net
 0.0.0.0	l6b587txj1.com
 0.0.0.0	lakequincy.com
+0.0.0.0	li.walmart.com
 0.0.0.0	livelyreward.com
 0.0.0.0	lowest-price.eu
 0.0.0.0	mediumshort.com
@@ -91145,9 +91144,11 @@
 0.0.0.0	tidint.pro
 0.0.0.0	track-on.eu
 0.0.0.0	track-on.pl
+0.0.0.0	trustpid.com
 0.0.0.0	user-shield-check.com
 0.0.0.0	userreplay.com
 0.0.0.0	worldwidedigitalads.com
+0.0.0.0	zy16eoat1w.com
 0.0.0.0	0001-cab8-4c8c-43de.reporo.net
 0.0.0.0	002-slq-470.mktoresp.com
 0.0.0.0	004-btr-463.mktoresp.com
