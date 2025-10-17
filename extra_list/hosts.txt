@@ -27264,6 +27264,7 @@
 0.0.0.0	captainbicycle.com
 0.0.0.0	carbonads.com
 0.0.0.0	carbonads.net
+0.0.0.0	cardmethod.com
 0.0.0.0	caringcast.com
 0.0.0.0	cartstack.com
 0.0.0.0	carvecakes.com
@@ -27687,6 +27688,7 @@
 0.0.0.0	functionalfeather.com
 0.0.0.0	funklicks.com
 0.0.0.0	funnelytics.io
+0.0.0.0	funtoyplanet.com
 0.0.0.0	furryfork.com
 0.0.0.0	fusionads.net
 0.0.0.0	fusionquest.com
@@ -27757,6 +27759,7 @@
 0.0.0.0	h-bid.com
 0.0.0.0	h-trck.com
 0.0.0.0	h0.t.hubspotemail.net
+0.0.0.0	haikusoap.com
 0.0.0.0	halcyoncanyon.com
 0.0.0.0	haltingbadge.com
 0.0.0.0	hammerhearing.com
@@ -28130,6 +28133,7 @@
 0.0.0.0	milotree.com
 0.0.0.0	mineinvoice.com
 0.0.0.0	minewhat.com
+0.0.0.0	minibilling.com
 0.0.0.0	mintegral.com
 0.0.0.0	mittencattle.com
 0.0.0.0	mix2ads.com
@@ -28464,6 +28468,7 @@
 0.0.0.0	r.sibmail.havasit.com
 0.0.0.0	raac33.net
 0.0.0.0	rabbitrifle.com
+0.0.0.0	rackforstorage.com
 0.0.0.0	radiate.com
 0.0.0.0	radiateprose.com
 0.0.0.0	rads.realadmin.pl
@@ -29166,6 +29171,7 @@
 0.0.0.0	ymetrica1.com
 0.0.0.0	yoads.net
 0.0.0.0	yoggrt.com
+0.0.0.0	youcandrawanything.com
 0.0.0.0	ypu.samsungelectronics.com
 0.0.0.0	zanox.com
 0.0.0.0	zantracker.com
