@@ -27434,6 +27434,7 @@
 0.0.0.0	cozyhillside.com
 0.0.0.0	cpays.com
 0.0.0.0	cpu.samsungelectronics.com
+0.0.0.0	cpx-traffic.com
 0.0.0.0	cpxinteractive.com
 0.0.0.0	crabbychin.com
 0.0.0.0	craktraffic.com
@@ -28439,7 +28440,6 @@
 0.0.0.0	pushengage.com
 0.0.0.0	pushno.com
 0.0.0.0	pushtrack.co
-0.0.0.0	pushwhy.com
 0.0.0.0	px.gfycat.com
 0.0.0.0	pxf.io
 0.0.0.0	pxl-mailtracker.com
@@ -28978,7 +28978,6 @@
 0.0.0.0	triplelift.com
 0.0.0.0	triptease.io
 0.0.0.0	trk.4ff.pro
-0.0.0.0	trk.bad-tool-tell-doubt.xyz
 0.0.0.0	trk.bc.shutterfly.com
 0.0.0.0	trk.techtarget.com
 0.0.0.0	trk42.net
@@ -91344,7 +91343,6 @@
 0.0.0.0	click-1.pl
 0.0.0.0	click-2.eu
 0.0.0.0	cnt.spbland.ru
-0.0.0.0	cpx-traffic.com
 0.0.0.0	dancemistake.com
 0.0.0.0	deal-on.eu
 0.0.0.0	decoycreation.com
@@ -91369,6 +91367,7 @@
 0.0.0.0	oneandonlynetwork.com
 0.0.0.0	promotions-884485.c.cdn77.org
 0.0.0.0	ptoushoa.com
+0.0.0.0	pushwhy.com
 0.0.0.0	ranking-liste.de
 0.0.0.0	re-direct1.com
 0.0.0.0	reloadphoto.com
@@ -91380,6 +91379,7 @@
 0.0.0.0	tidint.pro
 0.0.0.0	track-on.eu
 0.0.0.0	track-on.pl
+0.0.0.0	trk.bad-tool-tell-doubt.xyz
 0.0.0.0	trustpid.com
 0.0.0.0	user-shield-check.com
 0.0.0.0	userreplay.com
