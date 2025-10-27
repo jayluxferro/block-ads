@@ -5972,3 +5972,5 @@ us.i.posthog.com
 api.revenuecat.com
 analytics.adjust.com
 analytics.adjust.io
+capig.stape.ma
+ecomm.events
