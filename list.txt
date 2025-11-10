@@ -5973,3 +5973,4 @@ analytics.adjust.com
 analytics.adjust.io
 capig.stape.ma
 ecomm.events
+event.flareflow.tv
