@@ -5979,3 +5979,4 @@ realizationnewestfangs.com
 csp.secureserver.net
 webed.dm-event.net
 pebed.dm-event.net
+public-dta.epubgame.com
