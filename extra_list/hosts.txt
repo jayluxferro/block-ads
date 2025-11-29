@@ -26484,7 +26484,6 @@
 0.0.0.0	360yield.com
 0.0.0.0	3lift.com
 0.0.0.0	3o9s.short.gy
-0.0.0.0	4clicker.pro
 0.0.0.0	4d5.net
 0.0.0.0	4info.com
 0.0.0.0	4jnzhl0d0.com
@@ -26618,7 +26617,6 @@
 0.0.0.0	adhese.be
 0.0.0.0	adhese.com
 0.0.0.0	adhigh.net
-0.0.0.0	adhoc4.net
 0.0.0.0	adhub.media
 0.0.0.0	adhunter.media
 0.0.0.0	adimages.carsoup.com
@@ -27005,6 +27003,7 @@
 0.0.0.0	adzbazar.com
 0.0.0.0	adzerk.s3.amazonaws.com
 0.0.0.0	adzestocp.com
+0.0.0.0	aerialapps.com
 0.0.0.0	af-ad.co.uk
 0.0.0.0	affec.tv
 0.0.0.0	affili.net
@@ -27850,7 +27849,6 @@
 0.0.0.0	idtargeting.com
 0.0.0.0	ientrymail.com
 0.0.0.0	iesnare.com
-0.0.0.0	ignals.com
 0.0.0.0	ilbanner.com
 0.0.0.0	illustriousoatmeal.com
 0.0.0.0	imagecash.net
@@ -28370,7 +28368,6 @@
 0.0.0.0	pheedo.com
 0.0.0.0	phoenix-adrunner.mycomputer.com
 0.0.0.0	piano.io
-0.0.0.0	piet2eix3l.com
 0.0.0.0	pimproll.com
 0.0.0.0	ping.ublock.org
 0.0.0.0	piquantpigs.com
@@ -41036,6 +41033,7 @@
 0.0.0.0	zrobswiatlo.pl
 0.0.0.0	zuvia.pl
 0.0.0.0	0n.click
+0.0.0.0	4clicker.pro
 0.0.0.0	12monki-redirect.com
 0.0.0.0	12monkiredirect.com
 0.0.0.0	62ad.com
@@ -99339,6 +99337,7 @@
 0.0.0.0	ad.tapthislink.com
 0.0.0.0	adanging.blog
 0.0.0.0	adeure.com
+0.0.0.0	adhoc4.net
 0.0.0.0	adk2.co
 0.0.0.0	admix.in
 0.0.0.0	adplus.co.id
@@ -99374,6 +99373,7 @@
 0.0.0.0	generateoffice.com
 0.0.0.0	go-redirect.pl
 0.0.0.0	iasds01.com
+0.0.0.0	ignals.com
 0.0.0.0	jauchuwa.net
 0.0.0.0	l6b587txj1.com
 0.0.0.0	lakequincy.com
@@ -99386,6 +99386,7 @@
 0.0.0.0	n2.mouseflow.com
 0.0.0.0	onclasrv.com
 0.0.0.0	oneandonlynetwork.com
+0.0.0.0	piet2eix3l.com
 0.0.0.0	promotions-884485.c.cdn77.org
 0.0.0.0	ptoushoa.com
 0.0.0.0	pushwhy.com
