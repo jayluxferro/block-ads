@@ -26597,7 +26597,6 @@
 0.0.0.0	adcampo.com
 0.0.0.0	adcannyads.com
 0.0.0.0	adcash.com
-0.0.0.0	adcel.co
 0.0.0.0	adcell.de
 0.0.0.0	adclient1.tucows.com
 0.0.0.0	adclixx.net
@@ -27008,7 +27007,6 @@
 0.0.0.0	affec.tv
 0.0.0.0	affili.net
 0.0.0.0	affiliate.dtiserv.com
-0.0.0.0	affiliate.rusvpn.com
 0.0.0.0	affiliate.treated.com
 0.0.0.0	affiliates.allposters.com
 0.0.0.0	affiliates.babylon.com
@@ -27067,7 +27065,6 @@
 0.0.0.0	annoyedairport.com
 0.0.0.0	anrdoezrs.net
 0.0.0.0	anstrex.com
-0.0.0.0	anuncios.edicaoms.com.br
 0.0.0.0	anxiousapples.com
 0.0.0.0	api.appmetrica.yandex.ru
 0.0.0.0	api.eu.amplitude.com
@@ -28423,7 +28420,6 @@
 0.0.0.0	prf.hn
 0.0.0.0	priceypies.com
 0.0.0.0	pricklydebt.com
-0.0.0.0	priefy.com
 0.0.0.0	primetime.net
 0.0.0.0	privatecash.com
 0.0.0.0	prmtracking.com
@@ -96910,6 +96906,7 @@
 0.0.0.0	zzcc.eghyahl.com
 0.0.0.0	ad.tapthislink.com
 0.0.0.0	adanging.blog
+0.0.0.0	adcel.co
 0.0.0.0	adeure.com
 0.0.0.0	adhoc4.net
 0.0.0.0	adk2.co
@@ -96927,8 +96924,10 @@
 0.0.0.0	adserver.lecool.com
 0.0.0.0	adtech-digital.ru
 0.0.0.0	adz2you.com
+0.0.0.0	affiliate.rusvpn.com
 0.0.0.0	analytics.cohesionapps.com
 0.0.0.0	analytics.emarketer.com
+0.0.0.0	anuncios.edicaoms.com.br
 0.0.0.0	banners.clubseventeen.com
 0.0.0.0	c.corporate-fundraising.co.uk
 0.0.0.0	ceciliavenus.com
@@ -96961,6 +96960,7 @@
 0.0.0.0	onclasrv.com
 0.0.0.0	oneandonlynetwork.com
 0.0.0.0	piet2eix3l.com
+0.0.0.0	priefy.com
 0.0.0.0	promotions-884485.c.cdn77.org
 0.0.0.0	ptoushoa.com
 0.0.0.0	pushwhy.com
