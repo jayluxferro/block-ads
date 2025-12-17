@@ -27785,6 +27785,7 @@
 0.0.0.0	haplesshydrant.com
 0.0.0.0	harrenmedia.com
 0.0.0.0	harrenmedianetwork.com
+0.0.0.0	hayweb.net
 0.0.0.0	hb.afl.rakuten.co.jp
 0.0.0.0	hbb.afl.rakuten.co.jp
 0.0.0.0	heap.com
@@ -27799,6 +27800,7 @@
 0.0.0.0	hf5rbejvpwds.com
 0.0.0.0	hfc195b.com
 0.0.0.0	hgads.com
+0.0.0.0	highnoongear.com
 0.0.0.0	hightrafficads.com
 0.0.0.0	hilariouszinc.com
 0.0.0.0	histats.com
