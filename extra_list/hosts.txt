@@ -26778,7 +26778,6 @@
 0.0.0.0	ads.leovegas.com
 0.0.0.0	ads.liberte.pl
 0.0.0.0	ads.livenation.com
-0.0.0.0	ads.lordlucky.com
 0.0.0.0	ads.ma7.tv
 0.0.0.0	ads.massinfra.nl
 0.0.0.0	ads.medienhaus.de
@@ -26935,7 +26934,6 @@
 0.0.0.0	adskeeper.co.uk
 0.0.0.0	adskeeper.com
 0.0.0.0	adsklick.de
-0.0.0.0	adskpak.com
 0.0.0.0	adsmartracker.com
 0.0.0.0	adsmogo.com
 0.0.0.0	adsnative.com
@@ -27027,7 +27025,6 @@
 0.0.0.0	aliasanvil.com
 0.0.0.0	alikeaddition.com
 0.0.0.0	alipromo.com
-0.0.0.0	all4spy.com
 0.0.0.0	alluringbucket.com
 0.0.0.0	aloofmetal.com
 0.0.0.0	aloofvest.com
@@ -27396,7 +27393,6 @@
 0.0.0.0	colonize.com
 0.0.0.0	colorfulpet.com
 0.0.0.0	comfortablecheese.com
-0.0.0.0	commindo-media-ressourcen.de
 0.0.0.0	commissionmonster.com
 0.0.0.0	communications.melitaltd.com
 0.0.0.0	compactbanner.com
@@ -98113,14 +98109,17 @@
 0.0.0.0	ads.dtpnetwork.biz
 0.0.0.0	ads.fasttrack-ignite.com
 0.0.0.0	ads.lifethink.net
+0.0.0.0	ads.lordlucky.com
 0.0.0.0	ads.websiteservices.com
 0.0.0.0	ads1.rne.com
 0.0.0.0	ads2.rne.com
 0.0.0.0	adserver.lecool.com
 0.0.0.0	adsfeed.brabys.com
+0.0.0.0	adskpak.com
 0.0.0.0	adtech-digital.ru
 0.0.0.0	adz2you.com
 0.0.0.0	affiliate.rusvpn.com
+0.0.0.0	all4spy.com
 0.0.0.0	analytics.cohesionapps.com
 0.0.0.0	analytics.emarketer.com
 0.0.0.0	anuncios.edicaoms.com.br
@@ -98131,6 +98130,7 @@
 0.0.0.0	click-2.eu
 0.0.0.0	click.email.strawberry.no
 0.0.0.0	cnt.spbland.ru
+0.0.0.0	commindo-media-ressourcen.de
 0.0.0.0	cpx-traffic.com
 0.0.0.0	dancemistake.com
 0.0.0.0	deal-on.eu
