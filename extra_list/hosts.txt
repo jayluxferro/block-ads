@@ -27062,6 +27062,7 @@
 0.0.0.0	anrdoezrs.net
 0.0.0.0	anstrex.com
 0.0.0.0	anxiousapples.com
+0.0.0.0	api.affiliations.site
 0.0.0.0	api.appmetrica.yandex.ru
 0.0.0.0	api.eu.amplitude.com
 0.0.0.0	api.intensifier.de
@@ -114565,7 +114566,6 @@
 0.0.0.0	securev4vcapi.adcolony.com
 0.0.0.0	secure-wbw.imrworldwide.com
 0.0.0.0	secure.widget.dynamic.advertising.com
-0.0.0.0	securify.nl
 0.0.0.0	security-alert.th8fp9.top
 0.0.0.0	security.browser.intl.miui.com
 0.0.0.0	se.d1.sc.omtrdc.net
@@ -124142,8 +124142,6 @@
 0.0.0.0	modulepush.com
 0.0.0.0	datarain.frapp.in
 0.0.0.0	logger-04.vty.dailymotion.com
-0.0.0.0	tracker.affirm.com
-0.0.0.0	api-cf.affirm.com
 0.0.0.0	stat.fromfactory.club
 0.0.0.0	track.clubfactory.com
 0.0.0.0	bitdefender.evyy.net
@@ -135138,7 +135136,6 @@
 0.0.0.0	vps25.adsplay.in
 0.0.0.0	vps7.adsplay.in
 0.0.0.0	vps8.adsplay.in
-0.0.0.0	oempprd.samsungcloudsolution.com
 0.0.0.0	gpay-wfh-offer.web.app
 0.0.0.0	cdn.everylead.top
 0.0.0.0	adcashads.buzz
