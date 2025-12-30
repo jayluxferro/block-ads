@@ -27393,6 +27393,7 @@
 0.0.0.0	collector-dev.cdp-dev.cnn.com
 0.0.0.0	colonize.com
 0.0.0.0	colorfulpet.com
+0.0.0.0	coloroptimizer.com
 0.0.0.0	comfortablecheese.com
 0.0.0.0	commissionmonster.com
 0.0.0.0	communications.melitaltd.com
@@ -27409,6 +27410,7 @@
 0.0.0.0	consensad.com
 0.0.0.0	consensu.org
 0.0.0.0	contadores.miarroba.com
+0.0.0.0	content-loader.com
 0.0.0.0	content.acc-hd.de
 0.0.0.0	content22.online.citi.com
 0.0.0.0	contextweb.com
@@ -27502,6 +27504,7 @@
 0.0.0.0	dicecandies.com
 0.0.0.0	digestiondrawer.com
 0.0.0.0	digital-ads.s3.amazonaws.com
+0.0.0.0	direct-promo.pro
 0.0.0.0	directaclick.com
 0.0.0.0	directorym.com
 0.0.0.0	discreetfield.com
@@ -27694,6 +27697,8 @@
 0.0.0.0	fronttoad.com
 0.0.0.0	frtyj.com
 0.0.0.0	frtyk.com
+0.0.0.0	fudgegenie.com
+0.0.0.0	fullrestore.net
 0.0.0.0	fullstory.com
 0.0.0.0	functionalcrown.com
 0.0.0.0	functionalfeather.com
@@ -28613,6 +28618,7 @@
 0.0.0.0	s2d6.com
 0.0.0.0	sabio.us
 0.0.0.0	sadloaf.com
+0.0.0.0	safeoffers.pro
 0.0.0.0	sail-horizon.com
 0.0.0.0	samplesamba.com
 0.0.0.0	samsungacr.com
