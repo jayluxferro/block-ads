@@ -27357,6 +27357,7 @@
 0.0.0.0	clickdensity.com
 0.0.0.0	clickhereforcellphones.com
 0.0.0.0	clickngo.pro
+0.0.0.0	clickngo.top
 0.0.0.0	clickonometrics.pl
 0.0.0.0	clicks.checkatrade.com
 0.0.0.0	clicks.deliveroo.co.uk
@@ -28062,6 +28063,7 @@
 0.0.0.0	look.ufinkln.com
 0.0.0.0	loopme.com
 0.0.0.0	loudlunch.com
+0.0.0.0	lowest-prices.eu
 0.0.0.0	lucidmedia.com
 0.0.0.0	luckyorange.com
 0.0.0.0	ludicrousarch.com
@@ -28335,6 +28337,7 @@
 0.0.0.0	oxcash.com
 0.0.0.0	p-n.io
 0.0.0.0	paa-reporting-advertising.amazon
+0.0.0.0	page-checker.eu
 0.0.0.0	page-redirect.eu
 0.0.0.0	pagead.l.google.com
 0.0.0.0	pagerank-ranking.de
@@ -138927,3 +138930,4 @@
 0.0.0.0	gameops-player-profile.playrix.com
 0.0.0.0	uinfo6.playrix.com
 0.0.0.0	hygienicpee.com
+0.0.0.0	metrics.cursor.sh
