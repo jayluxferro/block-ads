@@ -6023,3 +6023,5 @@ gameops-player-profile.playrix.com
 uinfo6.playrix.com
 hygienicpee.com
 metrics.cursor.sh
+a-api.anthropic.com
+api.honeycomb.io
