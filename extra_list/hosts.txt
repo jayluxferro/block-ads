@@ -27092,6 +27092,7 @@
 0.0.0.0	assets1.exgfnetwork.com
 0.0.0.0	assoc-amazon.com
 0.0.0.0	aswpapius.com
+0.0.0.0	async.gsyndication.com
 0.0.0.0	at-adserver.alltop.com
 0.0.0.0	at-o.net
 0.0.0.0	atdmt.com
@@ -27423,6 +27424,7 @@
 0.0.0.0	conversionruler.com
 0.0.0.0	convertingtraffic.com
 0.0.0.0	convrse.media
+0.0.0.0	coolkidsdistrict.com
 0.0.0.0	cootlogix.com
 0.0.0.0	copperstills.net
 0.0.0.0	copycarpenter.com
@@ -27449,6 +27451,7 @@
 0.0.0.0	cratecamera.com
 0.0.0.0	crawlability.com
 0.0.0.0	crazypopups.com
+0.0.0.0	creatopy.net
 0.0.0.0	crimsonmeadow.com
 0.0.0.0	critictruck.com
 0.0.0.0	crowdedmass.com
@@ -29146,7 +29149,6 @@
 0.0.0.0	weborama.com
 0.0.0.0	weborama.fr
 0.0.0.0	webpower.com
-0.0.0.0	webreseau.com
 0.0.0.0	webseoanalytics.com
 0.0.0.0	webstat.com
 0.0.0.0	webstat.net
@@ -94267,6 +94269,7 @@
 0.0.0.0	trustpid.com
 0.0.0.0	user-shield-check.com
 0.0.0.0	vidible.tv
+0.0.0.0	webreseau.com
 0.0.0.0	worldwidedigitalads.com
 0.0.0.0	zy16eoat1w.com
 0.0.0.0	0001-cab8-4c8c-43de.reporo.net
