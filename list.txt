@@ -6026,3 +6026,6 @@ metrics.cursor.sh
 a-api.anthropic.com
 api.honeycomb.io
 api-iam.intercom.io
+gateway.unityads.unity3d.com
+webview.unityads.unity3d.com
+events.mz.unity3d.com
