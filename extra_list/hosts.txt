@@ -26668,6 +26668,7 @@
 0.0.0.0	adnxs.com
 0.0.0.0	adocean.pl
 0.0.0.0	adonspot.com
+0.0.0.0	adopsboost.com
 0.0.0.0	adoptum.net
 0.0.0.0	adoric-om.com
 0.0.0.0	adorigin.com
@@ -27405,6 +27406,7 @@
 0.0.0.0	comprabanner.it
 0.0.0.0	conditionchange.com
 0.0.0.0	conductrics.com
+0.0.0.0	confiant-integrations.net
 0.0.0.0	confidencetalks.com
 0.0.0.0	connectad.io
 0.0.0.0	connextra.com
@@ -27965,6 +27967,7 @@
 0.0.0.0	kontera.com
 0.0.0.0	kost.tv
 0.0.0.0	kpu.samsungelectronics.com
+0.0.0.0	kueezrtb.com
 0.0.0.0	kvsadman.com
 0.0.0.0	l1.britannica.com
 0.0.0.0	lameletters.com
@@ -28340,6 +28343,7 @@
 0.0.0.0	oxado.com
 0.0.0.0	oxcash.com
 0.0.0.0	p-n.io
+0.0.0.0	p7cloud.net
 0.0.0.0	paa-reporting-advertising.amazon
 0.0.0.0	page-checker.eu
 0.0.0.0	page-redirect.eu
@@ -28728,6 +28732,7 @@
 0.0.0.0	smetrics.ctv.ca
 0.0.0.0	smetrics.fedex.com
 0.0.0.0	smetrics.washingtonpost.com
+0.0.0.0	smilewanted.com
 0.0.0.0	smilingcattle.com
 0.0.0.0	smoggysnakes.com
 0.0.0.0	smrtb.com
