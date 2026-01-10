@@ -26638,7 +26638,6 @@
 0.0.0.0	adloox.com
 0.0.0.0	adlooxtracking.com
 0.0.0.0	adlure.net
-0.0.0.0	admagnet.net
 0.0.0.0	admailtiser.com
 0.0.0.0	adman.gr
 0.0.0.0	adman.otenet.gr
@@ -27245,6 +27244,7 @@
 0.0.0.0	browser-http-intake.logs.datadoghq.eu
 0.0.0.0	btglss.net
 0.0.0.0	bubblyaction.com
+0.0.0.0	buddycanvas.com
 0.0.0.0	buysellads.com
 0.0.0.0	buzzonclick.com
 0.0.0.0	c212.net
@@ -27678,7 +27678,6 @@
 0.0.0.0	flourishinginnovation.com
 0.0.0.0	floweryflavor.com
 0.0.0.0	flowgo.com
-0.0.0.0	fly-analytics.com
 0.0.0.0	fontserif.com
 0.0.0.0	foo.cosmocode.de
 0.0.0.0	foresee.com
@@ -27815,7 +27814,6 @@
 0.0.0.0	historytrade.com
 0.0.0.0	hit-parade.com
 0.0.0.0	hit.ua
-0.0.0.0	hit.webcentre.lycos.co.uk
 0.0.0.0	hitbox.com
 0.0.0.0	hitcounters.miarroba.com
 0.0.0.0	hitlist.ru
@@ -27853,7 +27851,6 @@
 0.0.0.0	hyprmx.com
 0.0.0.0	hystericalcloth.com
 0.0.0.0	i-i.lt
-0.0.0.0	i1media.no
 0.0.0.0	i305175.net
 0.0.0.0	ia.iinfo.cz
 0.0.0.0	iad.anm.co.uk
@@ -28529,7 +28526,6 @@
 0.0.0.0	rapidcounter.com
 0.0.0.0	raresummer.com
 0.0.0.0	rate.ru
-0.0.0.0	ratings.lycos.com
 0.0.0.0	rcadserver.com
 0.0.0.0	re-direct.pl
 0.0.0.0	reachjunction.com
@@ -28679,7 +28675,6 @@
 0.0.0.0	servedbyopenx.com
 0.0.0.0	servethis.com
 0.0.0.0	services.hearstmags.com
-0.0.0.0	sessioncam.com
 0.0.0.0	sexcounter.com
 0.0.0.0	sexlist.com
 0.0.0.0	sextracker.com
@@ -28698,7 +28693,6 @@
 0.0.0.0	shrillspoon.com
 0.0.0.0	shxtrk.com
 0.0.0.0	sicksmash.com
-0.0.0.0	sidebar.angelfire.com
 0.0.0.0	signalayer.com
 0.0.0.0	sillyscrew.com
 0.0.0.0	simpleanalytics.io
@@ -29155,6 +29149,7 @@
 0.0.0.0	weborama.com
 0.0.0.0	weborama.fr
 0.0.0.0	webpower.com
+0.0.0.0	webreseau.com
 0.0.0.0	webseoanalytics.com
 0.0.0.0	webstat.com
 0.0.0.0	webstat.net
@@ -86695,6 +86690,13 @@
 0.0.0.0	zhigao5191.com
 0.0.0.0	zycdjz.com
 0.0.0.0	zyhunkenya.co.ke
+0.0.0.0	admagnet.net
+0.0.0.0	fly-analytics.com
+0.0.0.0	hit.webcentre.lycos.co.uk
+0.0.0.0	i1media.no
+0.0.0.0	ratings.lycos.com
+0.0.0.0	sessioncam.com
+0.0.0.0	sidebar.angelfire.com
 0.0.0.0	0001-cab8-4c8c-43de.reporo.net
 0.0.0.0	002-slq-470.mktoresp.com
 0.0.0.0	004-btr-463.mktoresp.com
@@ -126259,7 +126261,6 @@
 0.0.0.0	webmaster-partnerprogramme24.de
 0.0.0.0	webmasterplan.com
 0.0.0.0	webmasterplan.de
-0.0.0.0	webreseau.com
 0.0.0.0	webstats4u.com
 0.0.0.0	webtrendslive.com
 0.0.0.0	wegcash.com
