@@ -27174,7 +27174,6 @@
 0.0.0.0	benfly.net
 0.0.0.0	berp.com
 0.0.0.0	bespoke.iln8.net
-0.0.0.0	best-click.pro
 0.0.0.0	bestboundary.com
 0.0.0.0	bestbuy.7tiv.net
 0.0.0.0	bewilderedblade.com
@@ -27477,7 +27476,6 @@
 0.0.0.0	d-collect.jennifersoft.com
 0.0.0.0	d-collector.jennifersoft.com
 0.0.0.0	d1f0tbk1v3e25u.cloudfront.net
-0.0.0.0	d2zd0wa1vpt7j9.cloudfront.net
 0.0.0.0	d81mfvml8p5ml.cloudfront.net
 0.0.0.0	dabiaozhi.com
 0.0.0.0	dacdn.visualwebsiteoptimizer.com
@@ -27815,6 +27813,7 @@
 0.0.0.0	historytrade.com
 0.0.0.0	hit-parade.com
 0.0.0.0	hit.ua
+0.0.0.0	hit.webcentre.lycos.co.uk
 0.0.0.0	hitbox.com
 0.0.0.0	hitcounters.miarroba.com
 0.0.0.0	hitlist.ru
@@ -28142,7 +28141,6 @@
 0.0.0.0	medyanetads.com
 0.0.0.0	meetrics.net
 0.0.0.0	megacash.de
-0.0.0.0	megapu.sh
 0.0.0.0	megastats.com
 0.0.0.0	megawerbung.de
 0.0.0.0	meltmilk.com
@@ -28171,6 +28169,7 @@
 0.0.0.0	minibilling.com
 0.0.0.0	mintegral.com
 0.0.0.0	mittencattle.com
+0.0.0.0	mix2ads.com
 0.0.0.0	mixedreading.com
 0.0.0.0	mixpanel.com
 0.0.0.0	mkto-ab410147.com
@@ -28527,6 +28526,7 @@
 0.0.0.0	rapidcounter.com
 0.0.0.0	raresummer.com
 0.0.0.0	rate.ru
+0.0.0.0	ratings.lycos.com
 0.0.0.0	rcadserver.com
 0.0.0.0	re-direct.pl
 0.0.0.0	reachjunction.com
@@ -28579,7 +28579,6 @@
 0.0.0.0	revive.haskovo.net
 0.0.0.0	revive.netriota.hu
 0.0.0.0	revive.plays.bg
-0.0.0.0	revlift.io
 0.0.0.0	revprotect.com
 0.0.0.0	revstats.com
 0.0.0.0	rexadvert.xyz
@@ -28676,6 +28675,7 @@
 0.0.0.0	servedbyopenx.com
 0.0.0.0	servethis.com
 0.0.0.0	services.hearstmags.com
+0.0.0.0	sessioncam.com
 0.0.0.0	sexcounter.com
 0.0.0.0	sexlist.com
 0.0.0.0	sextracker.com
@@ -28694,6 +28694,7 @@
 0.0.0.0	shrillspoon.com
 0.0.0.0	shxtrk.com
 0.0.0.0	sicksmash.com
+0.0.0.0	sidebar.angelfire.com
 0.0.0.0	signalayer.com
 0.0.0.0	sillyscrew.com
 0.0.0.0	simpleanalytics.io
@@ -85029,12 +85030,12 @@
 0.0.0.0	zycdjz.com
 0.0.0.0	zyhunkenya.co.ke
 0.0.0.0	admagnet.net
+0.0.0.0	best-click.pro
+0.0.0.0	d2zd0wa1vpt7j9.cloudfront.net
 0.0.0.0	fly-analytics.com
-0.0.0.0	hit.webcentre.lycos.co.uk
 0.0.0.0	i1media.no
-0.0.0.0	ratings.lycos.com
-0.0.0.0	sessioncam.com
-0.0.0.0	sidebar.angelfire.com
+0.0.0.0	megapu.sh
+0.0.0.0	revlift.io
 0.0.0.0	0001-cab8-4c8c-43de.reporo.net
 0.0.0.0	002-slq-470.mktoresp.com
 0.0.0.0	004-btr-463.mktoresp.com
