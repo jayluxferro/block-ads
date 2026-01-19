@@ -125803,3 +125803,13 @@
 0.0.0.0	rtbbhub.com
 0.0.0.0	animecrush.net
 0.0.0.0	2198fjxj2vwo51n5.klvj23yppcobu6.rest
+0.0.0.0	tracken.topdon.com
+0.0.0.0	ce3e75d5.jpush.cn
+0.0.0.0	cnlogs.umeng.com
+0.0.0.0	status-ipv6.jpush.cn
+0.0.0.0	tsis.jpush.cn
+0.0.0.0	utoken.umeng.com
+0.0.0.0	user.jpush.cn
+0.0.0.0	resolve.umeng.com
+0.0.0.0	user-ipv6.jpush.cn
+0.0.0.0	cnlogs.umengcloud.com
