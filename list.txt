@@ -6047,3 +6047,4 @@ user.jpush.cn
 resolve.umeng.com
 user-ipv6.jpush.cn
 cnlogs.umengcloud.com
+eu-central-1-1.aws.cloud2.influxdata.com
