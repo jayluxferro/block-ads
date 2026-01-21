@@ -120438,3 +120438,4 @@
 0.0.0.0	resolve.umeng.com
 0.0.0.0	user-ipv6.jpush.cn
 0.0.0.0	cnlogs.umengcloud.com
+0.0.0.0	eu-central-1-1.aws.cloud2.influxdata.com
