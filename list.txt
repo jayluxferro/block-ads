@@ -6049,3 +6049,9 @@ user-ipv6.jpush.cn
 cnlogs.umengcloud.com
 eu-central-1-1.aws.cloud2.influxdata.com
 ordinalblockingprobable.com
+lantern.roeye.com
+analytics.tiktok.com
+analytics-ipv6.tiktokw.us
+noodle.backmarket.io
+us.creativecdn.com
+www.dwin1.com
