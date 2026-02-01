@@ -6055,3 +6055,7 @@ analytics-ipv6.tiktokw.us
 noodle.backmarket.io
 us.creativecdn.com
 www.dwin1.com
+bat.bing.com
+gobbledygook.backmarket.com
+alb.reddit.com
+api-gateway.umami.dev
