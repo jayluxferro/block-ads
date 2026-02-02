@@ -127620,3 +127620,5 @@
 0.0.0.0	analytics-ipv6.tiktokw.us
 0.0.0.0	noodle.backmarket.io
 0.0.0.0	us.creativecdn.com
+0.0.0.0	gobbledygook.backmarket.com
+0.0.0.0	api-gateway.umami.dev
