@@ -6059,3 +6059,4 @@ bat.bing.com
 gobbledygook.backmarket.com
 alb.reddit.com
 api-gateway.umami.dev
+mobile.events.data.microsoft.com
