@@ -134405,6 +134405,7 @@
 0.0.0.0	zeepmedia.com
 0.0.0.0	zenkreka.com
 0.0.0.0	zintext.com
+0.0.0.0	zumobi.com
 0.0.0.0	adjust.io
 0.0.0.0	airbrake.io
 0.0.0.0	bango.combango.org
