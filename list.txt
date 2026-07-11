@@ -6071,3 +6071,5 @@ gator.volces.com
 eu.i.posthog.com
 locationhistory-pa.googleapis.com
 otel-collector.moonpaycloud.com
+checkappexec.microsoft.com
+nav.smartscreen.microsoft.com
