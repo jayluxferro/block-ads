@@ -130461,3 +130461,4 @@
 0.0.0.0	eu.i.posthog.com
 0.0.0.0	locationhistory-pa.googleapis.com
 0.0.0.0	otel-collector.moonpaycloud.com
+0.0.0.0	checkappexec.microsoft.com
