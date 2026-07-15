@@ -6073,3 +6073,4 @@ locationhistory-pa.googleapis.com
 otel-collector.moonpaycloud.com
 checkappexec.microsoft.com
 nav.smartscreen.microsoft.com
+ads.mozilla.org
