@@ -128005,3 +128005,4 @@
 0.0.0.0	locationhistory-pa.googleapis.com
 0.0.0.0	otel-collector.moonpaycloud.com
 0.0.0.0	checkappexec.microsoft.com
+0.0.0.0	api-sr.amplitude.com
