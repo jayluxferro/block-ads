@@ -6077,3 +6077,4 @@ ads.mozilla.org
 api-sr.amplitude.com
 dyekma.com
 new.jexen.com.de
+bamadrid.org
