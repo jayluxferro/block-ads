@@ -130631,3 +130631,6 @@
 0.0.0.0	otel-collector.moonpaycloud.com
 0.0.0.0	checkappexec.microsoft.com
 0.0.0.0	api-sr.amplitude.com
+0.0.0.0	dyekma.com
+0.0.0.0	new.jexen.com.de
+0.0.0.0	bamadrid.org
